@@ -22,7 +22,7 @@ repository               : "erblum/erblum.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/portrait.jpeg"
+  avatar           : "portrait.jpeg"
   name             : #"Personal Site"
   pronouns         : "she/her"  
   bio              : "Assistant Professor of Computer Science"
